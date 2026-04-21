@@ -7,7 +7,7 @@ jdk 'JDK17'
 stages {
 stage('Checkout') {
 steps {
-git 'https://github.com/Naveen04jan/demo-app.git'
+git 'https://github.com/chayakruthi/demo_app1.git'
 }
 }
 stage('Build') {
